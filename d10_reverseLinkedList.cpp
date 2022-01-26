@@ -1,3 +1,6 @@
+//206. Reverse Linked List
+//https://leetcode.com/problems/reverse-linked-list/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -7,8 +10,6 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
-//206. Reverse Linked List
-//https://leetcode.com/problems/reverse-linked-list/
 
  */
 class Solution {
